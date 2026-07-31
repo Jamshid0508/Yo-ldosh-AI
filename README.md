@@ -58,6 +58,8 @@ Pullik kalitingiz yo'qligini hisobga olib, backend standart holatda **Google Gem
 
 **Bepul tarif haqida:** Gemini Flash modellari kunlik/daqiqalik so'rov limiti bilan bepul ishlaydi (aniq raqamlar Google tomonidan vaqti-vaqti bilan yangilanadi — joriy limitlarni https://ai.google.dev/pricing sahifasidan tekshiring). Bizning ilovadagi rate-limit (mehmon — kuniga 10, ro'yxatdan o'tgan — 30) bu bepul tarifga mos keladi.
 
+> **Ma'lum muammo:** joriy kalit bilan production'da test qilinganda Gemini `429 RESOURCE_EXHAUSTED, limit: 0` xatosini qaytardi — bu "vaqtinchalik limit tugadi" emas, balki shu Google Cloud loyihasida `gemini-2.0-flash` uchun bepul kvota umuman yoqilmagan degani. Tuzatish uchun: https://aistudio.google.com sahifasida kalit bog'langan loyihani oching → **"Get API key" → loyiha tanlovi** qismida yangi/boshqa loyiha yarating (ba'zi eski Google Cloud loyihalarida bepul kvota yoqilmagan bo'lishi mumkin), yoki `GEMINI_MODEL`ni `gemini-1.5-flash`ga almashtirib ko'ring. Ilova bu xatoni chiroyli ushlaydi (foydalanuvchiga tushunarli xabar chiqadi, qulamaydi) — shuning uchun bu ilova emas, hisob sozlamasi masalasi.
+
 **Kelajakda pullik Claude'ga o'tish:** kod allaqachon shunga tayyor — `server/providers/anthropic.ts` mavjud. Shunchaki:
 ```
 AI_PROVIDER=anthropic
@@ -125,8 +127,18 @@ Boshqa qasddan qoldirilgan narsalar:
 
 ## Deploy
 
-- **Frontend** → Vercel (`client/` papkasini root sifatida ko'rsating, build command `npm run build`, output `dist`)
-- **Backend** → Railway/Render (`server/` papkasi, start command `npm run build && npm start`, yuqoridagi barcha `.env` o'zgaruvchilarini deploy platformasida sozlang)
+Ilova **to'liq Vercel'da** ikkita alohida loyiha sifatida joylashtirilgan (bitta GitHub repo, ikkita "Root Directory"):
+
+| Loyiha | Vercel Root Directory | Jonli manzil |
+|---|---|---|
+| Frontend (`yoldosh-ai`) | `client` | https://yoldosh-ai.vercel.app |
+| Backend (`yoldosh-ai-api`) | `server` | https://yoldosh-ai-api.vercel.app |
+
+Backend `server/api/index.ts` orqali Express ilovasini Vercel serverless funksiyasi sifatida ishga tushiradi (`server/vercel.json` barcha so'rovlarni shu funksiyaga yo'naltiradi). Frontend build vaqtida `VITE_API_BASE_URL` orqali backend manziliga so'rov yuboradi (`client/src/lib/api.ts`).
+
+**Env o'zgaruvchilar Vercel loyihalarida sozlangan** (`vercel env add`/dashboard orqali): `yoldosh-ai-api`da — `AI_PROVIDER`, `GEMINI_API_KEY`, `GEMINI_MODEL`, `MONGODB_URI`, `MONGODB_DB_NAME`, `CLIENT_ORIGIN`; `yoldosh-ai`da — `VITE_API_BASE_URL`. Qayta deploy: `cd server && vercel deploy --prod` yoki `cd client && vercel deploy --prod` (yoki GitHub'ga push qilib, Vercel'ning Git integratsiyasini yoqib qo'ysangiz avtomatik).
+
+**Boshqa platforma kerak bo'lsa** (masalan Railway/Render backend uchun): `server/index.ts` an'anaviy Node serveri sifatida ham ishlaydi (`npm run build && npm start`), `client/` esa har qanday statik hosting'da (build output — `dist/`).
 
 ## Xavfsizlik eslatmasi
 
