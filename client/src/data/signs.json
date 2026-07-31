@@ -1,0 +1,344 @@
+[
+  {
+    "id": "1.1",
+    "nom": "Temir yo'l kesishmasi (shlagbaumli)",
+    "kategoriya": "ogohlantiruvchi",
+    "svg": "1_1.svg",
+    "tavsif": "Shlagbaumli temir yo'l kesishmasiga yaqinlashish haqida ogohlantiradi.",
+    "amal_zonasi": "Belgidan kesishmagacha, shahar tashqarisida 150-300m, shaharda 50-100m.",
+    "jarima_izoh": "Ogohlantiruvchi belgi — o'zi jarima sababi emas, lekin talabga rioya qilmaslik MJtK bo'yicha javobgarlikka olib kelishi mumkin."
+  },
+  {
+    "id": "1.2",
+    "nom": "Temir yo'l kesishmasi (shlagbaumsiz)",
+    "kategoriya": "ogohlantiruvchi",
+    "svg": "1_2.svg",
+    "tavsif": "Shlagbaumsiz temir yo'l kesishmasiga yaqinlashish haqida ogohlantiradi.",
+    "amal_zonasi": "Belgidan kesishmagacha.",
+    "jarima_izoh": "Ogohlantiruvchi belgi."
+  },
+  {
+    "id": "1.8",
+    "nom": "Svetofor bilan tartibga solish",
+    "kategoriya": "ogohlantiruvchi",
+    "svg": "1_8.svg",
+    "tavsif": "Yo'l qismida svetofor o'rnatilganidan xabar beradi.",
+    "amal_zonasi": "Belgidan svetoforgacha.",
+    "jarima_izoh": "Ogohlantiruvchi belgi."
+  },
+  {
+    "id": "1.15",
+    "nom": "Sirpanchiq yo'l",
+    "kategoriya": "ogohlantiruvchi",
+    "svg": "1_15.svg",
+    "tavsif": "Yo'l qoplamasi sirpanchiq bo'lishi mumkinligi haqida ogohlantiradi.",
+    "amal_zonasi": "Belgidan xavfli qismgacha.",
+    "jarima_izoh": "Ogohlantiruvchi belgi."
+  },
+  {
+    "id": "1.16",
+    "nom": "Notekis yo'l",
+    "kategoriya": "ogohlantiruvchi",
+    "svg": "1_16.svg",
+    "tavsif": "Yo'l qoplamasida notekisliklar (chuqurlik, do'nglik) mavjudligi haqida ogohlantiradi.",
+    "amal_zonasi": "Belgidan xavfli qismgacha.",
+    "jarima_izoh": "Ogohlantiruvchi belgi."
+  },
+  {
+    "id": "1.17",
+    "nom": "Sun'iy notekislik",
+    "kategoriya": "ogohlantiruvchi",
+    "svg": "1_17.svg",
+    "tavsif": "Sun'iy yo'l do'ngligi (\"lежачий полицейский\") oldidan ogohlantiradi.",
+    "amal_zonasi": "Belgidan do'nglikkacha.",
+    "jarima_izoh": "Ogohlantiruvchi belgi."
+  },
+  {
+    "id": "1.20.1",
+    "nom": "Piyodalar o'tish joyi (ogohlantirish)",
+    "kategoriya": "ogohlantiruvchi",
+    "svg": "1_20_1.svg",
+    "tavsif": "Oldinda piyodalar o'tish joyi borligi haqida ogohlantiradi.",
+    "amal_zonasi": "Belgidan o'tish joyigacha.",
+    "jarima_izoh": "Ogohlantiruvchi belgi."
+  },
+  {
+    "id": "1.21",
+    "nom": "Bolalar",
+    "kategoriya": "ogohlantiruvchi",
+    "svg": "1_21.svg",
+    "tavsif": "Yaqin atrofda bolalar chiqishi mumkin bo'lgan joy (maktab, bog'cha) borligi haqida ogohlantiradi.",
+    "amal_zonasi": "Belgidan xavfli qismgacha.",
+    "jarima_izoh": "Ogohlantiruvchi belgi."
+  },
+  {
+    "id": "1.23",
+    "nom": "Velosipedchilar",
+    "kategoriya": "ogohlantiruvchi",
+    "svg": "1_23.svg",
+    "tavsif": "Velosipedchilar chiqishi mumkin bo'lgan yo'l qismi haqida ogohlantiradi.",
+    "amal_zonasi": "Belgidan xavfli qismgacha.",
+    "jarima_izoh": "Ogohlantiruvchi belgi."
+  },
+  {
+    "id": "1.31",
+    "nom": "Boshqa xavflar",
+    "kategoriya": "ogohlantiruvchi",
+    "svg": "1_31.svg",
+    "tavsif": "Boshqa belgilar bilan ko'rsatilmagan xavf haqida umumiy ogohlantirish.",
+    "amal_zonasi": "Belgidan xavfli qismgacha.",
+    "jarima_izoh": "Ogohlantiruvchi belgi."
+  },
+  {
+    "id": "2.1",
+    "nom": "Bosh yo'l",
+    "kategoriya": "imtiyoz",
+    "svg": "2_1.svg",
+    "tavsif": "Haydovchi kesishmada ustunlik huquqiga ega ekanini bildiradi.",
+    "amal_zonasi": "Keyingi kesishmagacha yoki bekor qiluvchi belgigacha.",
+    "jarima_izoh": "Ustunlikni buzish MJtK bo'yicha javobgarlikka sabab bo'lishi mumkin."
+  },
+  {
+    "id": "2.2",
+    "nom": "Bosh yo'l tugashi",
+    "kategoriya": "imtiyoz",
+    "svg": "2_2.svg",
+    "tavsif": "\"Bosh yo'l\" belgisi amal qilishining tugashini bildiradi.",
+    "amal_zonasi": "O'rnatilgan joydan boshlab.",
+    "jarima_izoh": "Ustunlikni buzish MJtK bo'yicha javobgarlikka sabab bo'lishi mumkin."
+  },
+  {
+    "id": "2.4",
+    "nom": "Yo'l bering",
+    "kategoriya": "imtiyoz",
+    "svg": "2_4.svg",
+    "tavsif": "Haydovchi kesishayotgan yo'ldagi transport vositalariga yo'l berishi shartligini bildiradi.",
+    "amal_zonasi": "Kesishmaning o'zida.",
+    "jarima_izoh": "Ustunlikni buzish MJtK bo'yicha ma'muriy javobgarlikka sabab bo'lishi mumkin."
+  },
+  {
+    "id": "2.5",
+    "nom": "Harakatsiz to'xtash (STOP)",
+    "kategoriya": "imtiyoz",
+    "svg": "2_5.svg",
+    "tavsif": "Haydovchi to'liq to'xtashi va bosh yo'ldagi transportga yo'l berishi shart.",
+    "amal_zonasi": "Kesishmaning o'zida.",
+    "jarima_izoh": "To'xtamaslik MJtK bo'yicha jarimaga sabab bo'ladi."
+  },
+  {
+    "id": "3.1",
+    "nom": "Kirish taqiqlangan",
+    "kategoriya": "taqiqlovchi",
+    "svg": "3_1.svg",
+    "tavsif": "Barcha transport vositalarining shu tomondan kirishi taqiqlanadi.",
+    "amal_zonasi": "O'rnatilgan joyning o'zida.",
+    "jarima_izoh": "MJtK bo'yicha ma'muriy javobgarlik."
+  },
+  {
+    "id": "3.2",
+    "nom": "Harakatlanish taqiqlangan",
+    "kategoriya": "taqiqlovchi",
+    "svg": "3_2.svg",
+    "tavsif": "Barcha turdagi transport vositalarining harakatlanishi taqiqlanadi.",
+    "amal_zonasi": "O'rnatilgan joydan keyingi kesishmagacha.",
+    "jarima_izoh": "MJtK bo'yicha ma'muriy javobgarlik."
+  },
+  {
+    "id": "3.11",
+    "nom": "Massasi cheklangan",
+    "kategoriya": "taqiqlovchi",
+    "svg": "3_11.svg",
+    "tavsif": "Ko'rsatilgan massadan og'ir transport vositalari harakatlanishi taqiqlanadi.",
+    "amal_zonasi": "O'rnatilgan joydan keyingi kesishmagacha.",
+    "jarima_izoh": "MJtK bo'yicha ma'muriy javobgarlik."
+  },
+  {
+    "id": "3.13",
+    "nom": "Balandligi cheklangan",
+    "kategoriya": "taqiqlovchi",
+    "svg": "3_13.svg",
+    "tavsif": "Ko'rsatilgan balandlikdan baland transport vositalari harakatlanishi taqiqlanadi.",
+    "amal_zonasi": "O'rnatilgan joydan keyingi kesishmagacha.",
+    "jarima_izoh": "MJtK bo'yicha ma'muriy javobgarlik."
+  },
+  {
+    "id": "3.20",
+    "nom": "Quvib o'tish taqiqlangan",
+    "kategoriya": "taqiqlovchi",
+    "svg": "3_20.svg",
+    "tavsif": "Tirkama va ikki g'ildirakli transportdan tashqari barcha vositalarni quvib o'tish taqiqlanadi.",
+    "amal_zonasi": "Keyingi kesishma yoki bekor qiluvchi belgigacha.",
+    "jarima_izoh": "MJtK bo'yicha ma'muriy javobgarlik, jiddiy holatlarda huquqni cheklash."
+  },
+  {
+    "id": "3.24",
+    "nom": "Maksimal tezlik cheklangan",
+    "kategoriya": "taqiqlovchi",
+    "svg": "3_24.svg",
+    "tavsif": "Ko'rsatilgan qiymatdan yuqori tezlikda harakatlanish taqiqlanadi.",
+    "amal_zonasi": "Keyingi kesishma yoki bekor qiluvchi belgigacha.",
+    "jarima_izoh": "Tezlik chegarasini buzish MJtK bo'yicha keng tarqalgan jarima turi."
+  },
+  {
+    "id": "3.27",
+    "nom": "To'xtash taqiqlangan",
+    "kategoriya": "taqiqlovchi",
+    "svg": "3_27.svg",
+    "tavsif": "Transport vositalarining to'xtashi ham, to'xtab turishi ham taqiqlanadi.",
+    "amal_zonasi": "Belgi o'rnatilgan joydan yaqin kesishmagacha.",
+    "jarima_izoh": "MJtK bo'yicha ma'muriy javobgarlik."
+  },
+  {
+    "id": "3.28",
+    "nom": "To'xtab turish taqiqlangan",
+    "kategoriya": "taqiqlovchi",
+    "svg": "3_28.svg",
+    "tavsif": "Transport vositalarining to'xtab turishi (uzoq muddat) taqiqlanadi, qisqa to'xtash mumkin.",
+    "amal_zonasi": "Belgi o'rnatilgan joydan yaqin kesishmagacha.",
+    "jarima_izoh": "MJtK bo'yicha ma'muriy javobgarlik."
+  },
+  {
+    "id": "4.1.1",
+    "nom": "Faqat to'g'riga harakatlanish",
+    "kategoriya": "buyuruvchi",
+    "svg": "4_1_1.svg",
+    "tavsif": "Faqat to'g'riga harakatlanishga ruxsat beriladi.",
+    "amal_zonasi": "Kesishmaning o'zida.",
+    "jarima_izoh": "MJtK bo'yicha ma'muriy javobgarlik."
+  },
+  {
+    "id": "4.1.2",
+    "nom": "Faqat o'ngga harakatlanish",
+    "kategoriya": "buyuruvchi",
+    "svg": "4_1_2.svg",
+    "tavsif": "Faqat o'ngga burilishga ruxsat beriladi.",
+    "amal_zonasi": "Kesishmaning o'zida.",
+    "jarima_izoh": "MJtK bo'yicha ma'muriy javobgarlik."
+  },
+  {
+    "id": "4.1.3",
+    "nom": "Faqat chapga harakatlanish",
+    "kategoriya": "buyuruvchi",
+    "svg": "4_1_3.svg",
+    "tavsif": "Faqat chapga burilishga ruxsat beriladi (aylanma harakatga ham).",
+    "amal_zonasi": "Kesishmaning o'zida.",
+    "jarima_izoh": "MJtK bo'yicha ma'muriy javobgarlik."
+  },
+  {
+    "id": "4.1.4",
+    "nom": "To'g'riga yoki o'ngga harakatlanish",
+    "kategoriya": "buyuruvchi",
+    "svg": "4_1_4.svg",
+    "tavsif": "Faqat to'g'riga yoki o'ngga harakatlanishga ruxsat beriladi.",
+    "amal_zonasi": "Kesishmaning o'zida.",
+    "jarima_izoh": "MJtK bo'yicha ma'muriy javobgarlik."
+  },
+  {
+    "id": "4.2.1",
+    "nom": "To'siqni o'ngdan aylanib o'tish",
+    "kategoriya": "buyuruvchi",
+    "svg": "4_2_1.svg",
+    "tavsif": "To'siq yoki orolchani faqat o'ng tomondan aylanib o'tish kerak.",
+    "amal_zonasi": "To'siq joylashgan qismda.",
+    "jarima_izoh": "MJtK bo'yicha ma'muriy javobgarlik."
+  },
+  {
+    "id": "4.3",
+    "nom": "Aylanma harakat",
+    "kategoriya": "buyuruvchi",
+    "svg": "4_3.svg",
+    "tavsif": "Kesishmada faqat ko'rsatilgan yo'nalishda (soat strelkasi bo'yicha) aylanma harakat qilish kerak.",
+    "amal_zonasi": "Kesishmaning o'zida.",
+    "jarima_izoh": "MJtK bo'yicha ma'muriy javobgarlik."
+  },
+  {
+    "id": "4.5",
+    "nom": "Velosiped yo'lkasi",
+    "kategoriya": "buyuruvchi",
+    "svg": "4_5.svg",
+    "tavsif": "Faqat velosipedchilar uchun mo'ljallangan yo'lak.",
+    "amal_zonasi": "Yo'lak davomida.",
+    "jarima_izoh": "MJtK bo'yicha ma'muriy javobgarlik."
+  },
+  {
+    "id": "5.1",
+    "nom": "Avtomagistral",
+    "kategoriya": "axborot-ishora",
+    "svg": "5_1.svg",
+    "tavsif": "Yo'l avtomagistral talablariga javob berishini bildiradi.",
+    "amal_zonasi": "Avtomagistral davomida.",
+    "jarima_izoh": "Axborot belgisi — piyodalar, tihoyurar transport kirishi taqiqlanadi."
+  },
+  {
+    "id": "5.15.1",
+    "nom": "Harakat yo'nalishi bo'yicha yo'l qatnovi",
+    "kategoriya": "axborot-ishora",
+    "svg": "5_15_1.svg",
+    "tavsif": "Har bir qatnov qismidan qaysi yo'nalishda harakatlanish mumkinligini ko'rsatadi.",
+    "amal_zonasi": "Kesishmagacha.",
+    "jarima_izoh": "Axborot belgisi."
+  },
+  {
+    "id": "5.16",
+    "nom": "Avtobus bekati",
+    "kategoriya": "axborot-ishora",
+    "svg": "5_16.svg",
+    "tavsif": "Jamoat transporti to'xtash joyini bildiradi.",
+    "amal_zonasi": "Bekat hududida.",
+    "jarima_izoh": "Bekat yaqinida to'xtash/parkovka qilish taqiqlanishi mumkin (3.27/3.28 bilan birga)."
+  },
+  {
+    "id": "5.19.1",
+    "nom": "Piyodalar o'tish joyi",
+    "kategoriya": "axborot-ishora",
+    "svg": "5_19_1.svg",
+    "tavsif": "Piyodalar o'tish joyi joylashgan hududni bildiradi.",
+    "amal_zonasi": "Ko'rsatilgan o'tish joyida.",
+    "jarima_izoh": "Piyodaga yo'l bermaslik MJtK bo'yicha jarimaga sabab bo'ladi."
+  },
+  {
+    "id": "6.4",
+    "nom": "To'xtash joyi (parkovka)",
+    "kategoriya": "servis",
+    "svg": "6_4.svg",
+    "tavsif": "Transport vositalarini to'xtatish uchun mo'ljallangan joy.",
+    "amal_zonasi": "Ko'rsatilgan hududda.",
+    "jarima_izoh": "Axborot-servis belgisi."
+  },
+  {
+    "id": "6.7",
+    "nom": "Ovqatlanish joyi",
+    "kategoriya": "servis",
+    "svg": "6_7.svg",
+    "tavsif": "Yaqin atrofda kafe/restoran borligini bildiradi.",
+    "amal_zonasi": "Ko'rsatilgan joyda.",
+    "jarima_izoh": "Servis belgisi."
+  },
+  {
+    "id": "6.8",
+    "nom": "Yoqilg'i quyish shoxobchasi",
+    "kategoriya": "servis",
+    "svg": "6_8.svg",
+    "tavsif": "Yaqin atrofda AYoQSh (benzin quyish) borligini bildiradi.",
+    "amal_zonasi": "Ko'rsatilgan joyda.",
+    "jarima_izoh": "Servis belgisi."
+  },
+  {
+    "id": "7.2.1",
+    "nom": "Amal qilish zonasi",
+    "kategoriya": "qoshimcha",
+    "svg": "7_2_1.svg",
+    "tavsif": "Asosiy belgi amal qilish zonasi (masofa)ni ko'rsatadi.",
+    "amal_zonasi": "Bosh belgi bilan birga.",
+    "jarima_izoh": "Qo'shimcha lavha — mustaqil jarima predmeti emas, bosh belgi bilan birga o'qiladi."
+  },
+  {
+    "id": "7.5",
+    "nom": "Transport turi",
+    "kategoriya": "qoshimcha",
+    "svg": "7_5.svg",
+    "tavsif": "Bosh belgi faqat ko'rsatilgan transport turlariga tegishli ekanini bildiradi.",
+    "amal_zonasi": "Bosh belgi bilan birga.",
+    "jarima_izoh": "Qo'shimcha lavha."
+  }
+]

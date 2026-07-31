@@ -1,0 +1,89 @@
+@import "./tokens.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: "Inter", sans-serif;
+  overscroll-behavior-y: none;
+}
+
+h1,
+h2,
+h3,
+.font-heading {
+  font-family: "Overpass", sans-serif;
+}
+
+.font-mono-num {
+  font-family: "Overpass Mono", monospace;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--card-border);
+  border-radius: 10px;
+}
+
+.btn-3d {
+  box-shadow: 0 4px 0 var(--blue-deep);
+  transition: transform 90ms ease, box-shadow 90ms ease;
+}
+.btn-3d:active {
+  transform: translateY(3px);
+  box-shadow: 0 1px 0 var(--blue-deep);
+}
+
+.card {
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 16px;
+}
+
+.focus-ring:focus-visible {
+  outline: 3px solid var(--marking);
+  outline-offset: 2px;
+}
+
+.markdown-body p {
+  margin-bottom: 0.5em;
+}
+.markdown-body p:last-child {
+  margin-bottom: 0;
+}
+.markdown-body ul,
+.markdown-body ol {
+  margin: 0.25em 0 0.5em 1.2em;
+}
+.markdown-body ul {
+  list-style: disc;
+}
+.markdown-body ol {
+  list-style: decimal;
+}
+.markdown-body strong {
+  font-weight: 700;
+}
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3 {
+  font-family: "Overpass", sans-serif;
+  font-weight: 700;
+  margin: 0.4em 0 0.2em;
+}

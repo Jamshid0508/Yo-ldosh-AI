@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+    <rect x="4" y="24" width="92" height="52" rx="4" fill="#FFFFFF" stroke="#1B1E24" stroke-width="3"/>
+    <line x1="20" y1="50" x2="80" y2="50" stroke="#1B1E24" stroke-width="3"/><text x="50" y="63" text-anchor="middle" font-family="Overpass, Arial, sans-serif" font-weight="800" font-size="18" fill="#1B1E24">100 m</text>
+  </svg>

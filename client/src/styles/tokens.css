@@ -1,0 +1,32 @@
+:root {
+  --sign-blue: #15529e;
+  --blue-deep: #0e3d77;
+  --marking: #ffc61e;
+  --asphalt: #1b1e24;
+  --concrete: #eff1f4;
+  --danger: #c8362b;
+  --success: #1f8a4e;
+
+  --bg: var(--concrete);
+  --fg: var(--asphalt);
+  --card-bg: #ffffff;
+  --card-border: #e2e5ea;
+}
+
+.dark {
+  --bg: var(--asphalt);
+  --fg: #f3f4f6;
+  --card-bg: #24272f;
+  --card-border: #33363f;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}

@@ -1,0 +1,1104 @@
+[
+  {
+    "id": "q_001",
+    "savol": "Haydovchi transport vositasini boshqarayotganda o'zi bilan qanday hujjatlarni olib yurishi shart?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "Haydovchilik guvohnomasi, texnik pasport va OSAGO (agar bo'lsa)",
+      "Faqat pasport",
+      "Hech qanday hujjat shart emas, agar mashina o'ziniki bo'lsa",
+      "Faqat haydovchilik guvohnomasi"
+    ],
+    "togri": 0,
+    "izoh": "Haydovchi doimo haydovchilik guvohnomasi, transport vositasi texnik pasporti va amaldagi sug'urta polisini o'zi bilan olib yurishi kerak.",
+    "mavzu": "umumiy",
+    "qiyinlik": 1
+  },
+  {
+    "id": "q_002",
+    "savol": "Xavfsizlik kamari qachon taqilishi shart?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "Faqat shahar tashqarisida yuqori tezlikda",
+      "Haydovchi va barcha yo'lovchilar uchun har doim, harakat boshlanishidan oldin",
+      "Faqat old o'rindiqdagilar uchun",
+      "Faqat yomg'irli havoda"
+    ],
+    "togri": 1,
+    "izoh": "Xavfsizlik kamari transport vositasi harakatlanayotgan har qanday holatda haydovchi va barcha yo'lovchilar tomonidan taqilishi shart.",
+    "mavzu": "umumiy",
+    "qiyinlik": 1
+  },
+  {
+    "id": "q_003",
+    "savol": "Haydovchi rul boshqarayotganda mobil telefondan qanday foydalanishi mumkin?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "Faqat qo'lda ushlamasdan (garnitura yoki tashqi karnay orqali) gaplashish mumkin",
+      "Istalgan holatda gaplashish mumkin",
+      "Faqat svetoforda to'xtaganda qo'lda ushlab gaplashish mumkin",
+      "Faqat SMS yozish mumkin, gaplashish mumkin emas"
+    ],
+    "togri": 0,
+    "izoh": "Harakatlanish davomida qo'lda telefon ushlab gaplashish taqiqlanadi; faqat qo'l band qilmaydigan (garnitura, bluetooth) uskunalar orqali foydalanish mumkin.",
+    "mavzu": "umumiy",
+    "qiyinlik": 1
+  },
+  {
+    "id": "q_004",
+    "savol": "Old va orqa mashina orasidagi masofa qanday tanlanishi kerak?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "Har doim aniq 5 metr",
+      "Tezlik, yo'l holati va ob-havo shароitidan kelib chiqib, to'satdan to'xtaganda to'qnashmaydigan masofada",
+      "Faqat old mashina signal bersa masofa saqlash kerak",
+      "Masofa ahamiyatsiz, faqat tezlikni pasaytirish kifoya"
+    ],
+    "togri": 1,
+    "izoh": "Xavfsiz masofa doimiy bo'lmaydi — u tezlik, yo'l qoplamasi va ob-havoga qarab haydovchi tomonidan baholanishi va zarurat tug'ilganda to'satdan to'xtashga yetarli bo'lishi kerak.",
+    "mavzu": "umumiy",
+    "qiyinlik": 2
+  },
+  {
+    "id": "q_005",
+    "savol": "Alkogol iste'mol qilgan holatda transport vositasini boshqarish mumkinmi?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "Ha, agar oz miqdorda bo'lsa",
+      "Yo'q, alkogol yoki uni mast qiluvchi moddalar ta'sirida transport boshqarish qat'iyan taqiqlanadi",
+      "Ha, agar yo'lovchi bo'lmasa",
+      "Faqat kunduzi taqiqlanadi"
+    ],
+    "togri": 1,
+    "izoh": "Alkogol yoki boshqa mast qiluvchi moddalar ta'sirida transport vositasini boshqarish qat'iyan taqiqlanadi va jiddiy javobgarlikka sabab bo'ladi.",
+    "mavzu": "umumiy",
+    "qiyinlik": 1
+  },
+  {
+    "id": "q_006",
+    "savol": "Shahar ichida tunda (yorug'lik yetarli bo'lmaganda) qanday yorug'lik asboblari yoqilishi shart?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "Faqat orqa gabarit chiroqlari",
+      "Yaqin yoki uzoq nur faralar (yo'lni yoritish uchun)",
+      "Faqat avariya signalizatsiyasi",
+      "Hech narsa yoqish shart emas, ko'cha yoritilgan bo'lsa"
+    ],
+    "togri": 1,
+    "izoh": "Ko'rinuvchanlik yetarli bo'lmagan vaqtda (tun, tuman) transport vositasida yaqin yoki uzoq nur faralar yoqilgan bo'lishi shart.",
+    "mavzu": "umumiy",
+    "qiyinlik": 1
+  },
+  {
+    "id": "q_007",
+    "savol": "Boshqa transport vositasini tros bilan sudrab olib ketishda (bukirovka) nimaga rioya qilish kerak?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "Tezlik va masofa cheklovlariga, hamda ikkala transportda ham yorug'lik signallariga rioya qilish kerak",
+      "Har qanday tezlikda olib ketish mumkin",
+      "Faqat kunduzi olib ketish mumkin",
+      "Yo'lovchi sudralayotgan mashinada bo'lishi taqiqlanadi har doim"
+    ],
+    "togri": 0,
+    "izoh": "Bukirovka paytida belgilangan tezlik va masofa cheklovlariga, shuningdek ogohlantiruvchi yorug'lik signallarini yoqishga rioya qilinishi shart.",
+    "mavzu": "umumiy",
+    "qiyinlik": 2
+  },
+  {
+    "id": "q_008",
+    "savol": "\"U-burilish\" (orqaga burilish) qayerlarda taqiqlanadi?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "Piyodalar o'tish joylarida, ko'priklarda, tunnellarda va ko'rinuvchanlik yetarli bo'lmagan joylarda",
+      "Faqat svetoforli chorrahalarda",
+      "Faqat tungi vaqtda",
+      "Hech qayerda taqiqlanmaydi"
+    ],
+    "togri": 0,
+    "izoh": "Orqaga burilish ko'rinuvchanlik cheklangan joylarda (ko'prik, tunnel, temir yo'l kesishmasi, piyodalar o'tish joyi) taqiqlanadi.",
+    "mavzu": "umumiy",
+    "qiyinlik": 2
+  },
+  {
+    "id": "q_009",
+    "savol": "Dorivor vositalar (masalan kuchli uyqu dorilari) qabul qilgan haydovchi transport boshqarishi mumkinmi?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "Ha, agar retsept bo'yicha berilgan bo'lsa",
+      "Yo'q, agar dori diqqatni va reaksiya tezligini pasaytirsa, transport boshqarish tavsiya etilmaydi/taqiqlanadi",
+      "Faqat qisqa masofada mumkin",
+      "Faqat kunduzi mumkin"
+    ],
+    "togri": 1,
+    "izoh": "Diqqat va reaksiyaga ta'sir qiluvchi dori-darmon qabul qilgan holatda transport vositasini boshqarish xavfsizlikka tahdid soladi va tavsiya etilmaydi.",
+    "mavzu": "umumiy",
+    "qiyinlik": 2
+  },
+  {
+    "id": "q_010",
+    "savol": "Yo'l-transport hodisasi (avariya) sodir bo'lganda haydovchining birinchi vazifasi nima?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "Darhol joyni tark etish",
+      "Transportni to'xtatish, avariya signalizatsiyasini yoqish va zarur bo'lsa jabrlanganlarga yordam ko'rsatish",
+      "Faqat sug'urta kompaniyasiga qo'ng'iroq qilish",
+      "Guvohlarni kutmasdan avtomobilni olib ketish"
+    ],
+    "togri": 1,
+    "izoh": "Avariyadan so'ng transport vositasini to'xtatish, avariya signalizatsiyasini yoqish, hodisa joyini o'zgartirmaslik va zarur bo'lsa tez tibbiy yordamga xabar berish talab qilinadi.",
+    "mavzu": "umumiy",
+    "qiyinlik": 2
+  },
+
+  {
+    "id": "q_011",
+    "savol": "Ushbu belgi nimani anglatadi?",
+    "belgi_id": "3.27",
+    "sxema": null,
+    "variantlar": ["To'xtash taqiqlangan", "To'xtab turish taqiqlangan", "Kirish taqiqlangan", "Tezlik cheklangan"],
+    "togri": 0,
+    "izoh": "3.27 belgisi transport vositasining to'xtashini ham, to'xtab turishini ham taqiqlaydi.",
+    "mavzu": "belgilar",
+    "qiyinlik": 1
+  },
+  {
+    "id": "q_012",
+    "savol": "Ushbu belgi qanday harakatni talab qiladi?",
+    "belgi_id": "2.5",
+    "sxema": null,
+    "variantlar": [
+      "Sekinlashib, yo'l bo'sh bo'lsa to'xtamasdan o'tish mumkin",
+      "To'xtash chizig'ida to'liq to'xtash va bosh yo'ldagi transportga yo'l berish shart",
+      "Faqat signal berib o'tish kerak",
+      "Faqat tungi vaqtda amal qiladi"
+    ],
+    "togri": 1,
+    "izoh": "STOP belgisi haydovchidan to'xtash chizig'ida to'liq to'xtashni va keyin bosh yo'ldagi transportga yo'l berishni talab qiladi.",
+    "mavzu": "belgilar",
+    "qiyinlik": 1
+  },
+  {
+    "id": "q_013",
+    "savol": "Ushbu belgi o'rnatilgan kesishmada haydovchi qanday harakatlanishi kerak?",
+    "belgi_id": "4.3",
+    "sxema": null,
+    "variantlar": [
+      "Faqat to'g'riga",
+      "Ko'rsatilgan yo'nalishda (soat strelkasi bo'yicha) aylanma harakat qilish kerak",
+      "Chapga burilish taqiqlanadi",
+      "Bu belgi to'xtashni bildiradi"
+    ],
+    "togri": 1,
+    "izoh": "4.3 belgisi kesishmada faqat ko'rsatilgan yo'nalishda aylanma harakat qilinishini bildiradi.",
+    "mavzu": "belgilar",
+    "qiyinlik": 1
+  },
+  {
+    "id": "q_014",
+    "savol": "Ushbu belgi ta'sir zonasida nima taqiqlanadi?",
+    "belgi_id": "3.20",
+    "sxema": null,
+    "variantlar": [
+      "Kirish umuman taqiqlanadi",
+      "Tirkamasiz yengil avtomobillardan boshqa transport vositalarini quvib o'tish taqiqlanadi",
+      "To'xtash taqiqlanadi",
+      "Tezlik cheklangan"
+    ],
+    "togri": 1,
+    "izoh": "3.20 belgisi amal qilgan joyda ikki g'ildirakli transport vositalaridan tashqari boshqa vositalarni quvib o'tish taqiqlanadi.",
+    "mavzu": "belgilar",
+    "qiyinlik": 2
+  },
+  {
+    "id": "q_015",
+    "savol": "Ushbu belgi haydovchidan nimani talab qiladi?",
+    "belgi_id": "2.4",
+    "sxema": null,
+    "variantlar": [
+      "To'liq to'xtash shart, yo'l bo'sh bo'lsa ham",
+      "Kesishayotgan yo'ldagi transportga yo'l berish, zarurat bo'lmasa to'xtamasdan ham o'tish mumkin",
+      "Bu belgi faqat piyodalarga tegishli",
+      "Tezlikni oshirish kerak"
+    ],
+    "togri": 1,
+    "izoh": "\"Yo'l bering\" belgisi kesishayotgan transportga ustunlik berishni talab qiladi; agar yo'l bo'sh bo'lsa, to'xtamasdan ham o'tish mumkin.",
+    "mavzu": "belgilar",
+    "qiyinlik": 2
+  },
+  {
+    "id": "q_016",
+    "savol": "Ushbu belgi qanday transport vositalariga tegishli?",
+    "belgi_id": "3.11",
+    "sxema": null,
+    "variantlar": [
+      "Belgida ko'rsatilgan massadan og'ir transport vositalariga",
+      "Barcha transport vositalariga, massasidan qat'i nazar",
+      "Faqat yengil avtomobillarga",
+      "Faqat avtobuslarga"
+    ],
+    "togri": 0,
+    "izoh": "3.11 belgisi ko'rsatilgan haqiqiy massadan og'ir bo'lgan transport vositalari uchun harakatlanishni taqiqlaydi.",
+    "mavzu": "belgilar",
+    "qiyinlik": 2
+  },
+  {
+    "id": "q_017",
+    "savol": "Ushbu belgi ko'ringanda haydovchi nimaga alohida e'tibor berishi kerak?",
+    "belgi_id": "1.21",
+    "sxema": null,
+    "variantlar": [
+      "Hech narsaga, bu shunchaki dekorativ belgi",
+      "Yaqin atrofda bolalar to'satdan yo'lga chiqishi mumkinligiga, tezlikni pasaytirish kerak",
+      "Yo'l kengayishiga",
+      "Yoqilg'i tugashi mumkinligiga"
+    ],
+    "togri": 1,
+    "izoh": "\"Bolalar\" belgisi yaqinida maktab yoki bog'cha borligini va bolalar to'satdan yo'lga chiqishi mumkinligini bildiradi — tezlikni pasaytirish zarur.",
+    "mavzu": "belgilar",
+    "qiyinlik": 1
+  },
+  {
+    "id": "q_018",
+    "savol": "Ushbu belgi qanday joyni bildiradi?",
+    "belgi_id": "6.4",
+    "sxema": null,
+    "variantlar": ["To'xtash taqiqlangan hudud", "Transport vositalarini to'xtatish (parkovka) uchun mo'ljallangan joy", "Yoqilg'i quyish shoxobchasi", "Avtobus bekati"],
+    "togri": 1,
+    "izoh": "6.4 — servis belgisi bo'lib, transport vositalarini to'xtatish uchun ruxsat etilgan joyni bildiradi.",
+    "mavzu": "belgilar",
+    "qiyinlik": 1
+  },
+  {
+    "id": "q_019",
+    "savol": "Ushbu belgi kesishmada qanday harakatga ruxsat beradi?",
+    "belgi_id": "4.1.2",
+    "sxema": null,
+    "variantlar": ["Faqat to'g'riga", "Faqat chapga", "Faqat o'ngga burilishga", "Har qanday yo'nalishga"],
+    "togri": 2,
+    "izoh": "4.1.2 belgisi faqat o'ngga burilib harakatlanishga ruxsat beradi.",
+    "mavzu": "belgilar",
+    "qiyinlik": 1
+  },
+  {
+    "id": "q_020",
+    "savol": "Ushbu belgi o'rnatilgan joydan qanday transport vositalari kira olmaydi?",
+    "belgi_id": "3.1",
+    "sxema": null,
+    "variantlar": [
+      "Faqat yuk mashinalari",
+      "Barcha transport vositalari, shu tomondan kirish umuman taqiqlanadi",
+      "Faqat velosipedchilar",
+      "Faqat mototsikllar"
+    ],
+    "togri": 1,
+    "izoh": "\"Kirish taqiqlangan\" belgisi shu tomondan barcha transport vositalarining kirishini taqiqlaydi (odatda bir tomonlama harakat yo'lining qarama-qarshi kirish joyida o'rnatiladi).",
+    "mavzu": "belgilar",
+    "qiyinlik": 1
+  },
+
+  {
+    "id": "q_021",
+    "savol": "Svetoforda yashil chiroq yonib turganda haydovchi qanday harakat qilishi mumkin?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "Harakatlanishga ruxsat etiladi, lekin kesishmadagi boshqa ustunlikka ega ishtirokchilarga (masalan piyodalarga) yo'l berish shartligi saqlanadi",
+      "Har qanday holatda to'xtamasdan o'tish shart",
+      "Faqat chapga burilish mumkin",
+      "Yashil chiroq faqat piyodalarga tegishli"
+    ],
+    "togri": 0,
+    "izoh": "Yashil chiroq harakatga ruxsat beradi, biroq bu ayni paytda yo'lni tugatayotgan piyoda yoki boshqa ustunlikka ega ishtirokchilarga yo'l berish majburiyatini bekor qilmaydi.",
+    "mavzu": "svetofor",
+    "qiyinlik": 2
+  },
+  {
+    "id": "q_022",
+    "savol": "Svetoforda sariq chiroq yonganda (yashildan keyin) haydovchi nima qilishi kerak?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "Tezlikni oshirib, tezroq o'tib olish kerak",
+      "Agar xavfsiz to'xtay olsa to'xtashi, aks holda ehtiyotkorlik bilan harakatni davom ettirishi mumkin",
+      "Darhol qattiq tormoz berish shart",
+      "Sariq chiroqqa e'tibor bermaslik mumkin"
+    ],
+    "togri": 1,
+    "izoh": "Sariq chiroq ogohlantiruvchi signal — haydovchi xavfsiz to'xtay olsa to'xtashi kerak, agar to'xtash to'satdan tormozlashga olib kelsa, ehtiyotkorlik bilan o'tishi mumkin.",
+    "mavzu": "svetofor",
+    "qiyinlik": 2
+  },
+  {
+    "id": "q_023",
+    "savol": "Svetoforda qizil va sariq chiroq bir vaqtda (ketma-ket) yonganda bu nimani bildiradi?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "Harakatlanish mumkin",
+      "Tez orada yashil yonishidan darak beradi, lekin hali harakatlanish taqiqlangan",
+      "Chorraha yopilgan",
+      "Faqat orqaga qaytish mumkin"
+    ],
+    "togri": 1,
+    "izoh": "Qizil bilan sariq birga yonishi yashil chiroq tez orada yonishidan darak beradi, biroq bu vaqtda harakatlanish hali taqiqlangan.",
+    "mavzu": "svetofor",
+    "qiyinlik": 2
+  },
+  {
+    "id": "q_024",
+    "savol": "Svetoforda faqat ko'k (yashil) o'ngga burilish strelkasi yonib turganda boshqa yo'nalishlar uchun nima degani?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "Faqat strelka ko'rsatgan yo'nalishda harakatlanish mumkin, boshqa yo'nalishlar taqiqlangan",
+      "Barcha yo'nalishlarda harakatlanish mumkin",
+      "Bu shunchaki dekorativ chiroq",
+      "Faqat piyodalar uchun"
+    ],
+    "togri": 0,
+    "izoh": "Qo'shimcha strelkali svetofor sektsiyasi faqat ko'rsatilgan yo'nalishda harakatlanishga ruxsat beradi, qolgan yo'nalishlar asosiy signalga bog'liq.",
+    "mavzu": "svetofor",
+    "qiyinlik": 2
+  },
+  {
+    "id": "q_025",
+    "savol": "Svetofor butunlay ishlamay qolsa (o'chgan bo'lsa), haydovchi qanday harakat qilishi kerak?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "Kesishmadan o'tish umuman taqiqlanadi",
+      "Kesishmani teng ahamiyatli chorraha yoki ustunlik belgilariga (agar bo'lsa) muvofiq o'tish kerak",
+      "Doim to'g'ridan-o'ng qoidasidan qat'i nazar birinchi kelgan o'tadi",
+      "Faqat politsiya kelguncha kutish kerak"
+    ],
+    "togri": 1,
+    "izoh": "Svetofor ishlamayotganda kesishma teng ahamiyatli chorraha sifatida yoki mavjud ustunlik belgilariga muvofiq o'tiladi.",
+    "mavzu": "svetofor",
+    "qiyinlik": 3
+  },
+  {
+    "id": "q_026",
+    "savol": "Piyodalar svetoforida qizil odam belgisi yonib turganda piyoda nima qilishi kerak?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": ["O'tishni davom ettirishi mumkin", "Kutib turishi kerak, o'tish taqiqlangan", "Yugurib o'tib olishi kerak", "Faqat kattalar bilan o'tishi mumkin"],
+    "togri": 1,
+    "izoh": "Piyodalar svetoforida qizil signal o'tishni taqiqlaydi, piyoda yashil signalni kutishi kerak.",
+    "mavzu": "svetofor",
+    "qiyinlik": 1
+  },
+  {
+    "id": "q_027",
+    "savol": "Svetoforda sariq chiroq yolg'iz (miltillovchi) yonib turgan bo'lsa, bu nimani bildiradi?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "Kesishma yopiq",
+      "Harakat ruxsat etilgan, lekin ehtiyotkorlik bilan, odatda ustunlik belgilariga rioya qilib o'tish kerak",
+      "Faqat piyodalar o'tishi mumkin",
+      "Bu signal hech narsani anglatmaydi"
+    ],
+    "togri": 1,
+    "izoh": "Miltillovchi sariq chiroq svetofor tartibga solmasligini, kesishmadan ehtiyotkorlik bilan (mavjud belgilarga muvofiq) o'tish kerakligini bildiradi.",
+    "mavzu": "svetofor",
+    "qiyinlik": 2
+  },
+
+  {
+    "id": "q_028",
+    "savol": "Sxemadagi teng ahamiyatli chorrahada A va B mashinalari bir vaqtda yaqinlashmoqda. Kim birinchi o'tadi?",
+    "belgi_id": null,
+    "sxema": {
+      "yol_turi": "chorraha_4",
+      "izoh": "Teng ahamiyatli chorraha, belgilar yo'q",
+      "svetofor": null,
+      "belgilar": [],
+      "mashinalar": [
+        { "harf": "A", "rang": "#15529E", "tomon": "janub", "manevr": "togri", "meniki": true },
+        { "harf": "B", "rang": "#C8362B", "tomon": "garb", "manevr": "togri", "meniki": false }
+      ],
+      "piyodalar": [],
+      "yol_boyi_chizigi": "uzuq"
+    },
+    "variantlar": [
+      "A birinchi o'tadi, chunki B ning o'ng tomonida A turibdi",
+      "B birinchi o'tadi, chunki u chapdan kelmoqda",
+      "Ikkalasi bir vaqtda o'tishi mumkin",
+      "Kim tezroq bosgan bo'lsa, o'sha o'tadi"
+    ],
+    "togri": 0,
+    "izoh": "Teng ahamiyatli chorrahada \"to'g'ridan-o'ng\" qoidasi amal qiladi: B ning o'ng tomonidan A yaqinlashmoqda, shu sababli B, A ga yo'l berishi kerak.",
+    "mavzu": "chorrahalar",
+    "qiyinlik": 3
+  },
+  {
+    "id": "q_029",
+    "savol": "Sxemada A kichik yo'ldan \"Yo'l bering\" belgisi ostida, B esa bosh yo'ldan to'g'ri harakatlanmoqda. Kim ustunlikka ega?",
+    "belgi_id": null,
+    "sxema": {
+      "yol_turi": "chorraha_T",
+      "izoh": "T-kesishma, kichik yo'ldan chiquvchida 2.4 belgisi bor",
+      "svetofor": null,
+      "belgilar": [{ "belgi_id": "2.4", "tomon": "janub" }],
+      "mashinalar": [
+        { "harf": "A", "rang": "#15529E", "tomon": "janub", "manevr": "chapga", "meniki": true },
+        { "harf": "B", "rang": "#C8362B", "tomon": "garb", "manevr": "togri", "meniki": false }
+      ],
+      "piyodalar": [],
+      "yol_boyi_chizigi": "yaxlit"
+    },
+    "variantlar": [
+      "A ustunlikka ega, chunki u chapga burilmoqda",
+      "B ustunlikka ega, A yo'l berishi shart",
+      "Ikkalasi teng huquqli",
+      "Bu holatda svetofor yo'qligi sababli hech kim o'ta olmaydi"
+    ],
+    "togri": 1,
+    "izoh": "A \"Yo'l bering\" belgisi ostida turgani uchun bosh yo'ldan harakatlanayotgan B ga yo'l berishi shart.",
+    "mavzu": "chorrahalar",
+    "qiyinlik": 2
+  },
+  {
+    "id": "q_030",
+    "savol": "\"Bosh yo'l\" (2.1) belgisi o'rnatilgan yo'ldan harakatlanayotgan haydovchi kesishmada qanday ustunlikka ega?",
+    "belgi_id": "2.1",
+    "sxema": null,
+    "variantlar": [
+      "Kesishayotgan (ikkinchi darajali) yo'ldagi transportga nisbatan ustunlikka ega",
+      "Faqat piyodalarga nisbatan ustunlikka ega",
+      "Ustunlikka ega emas, har doim to'xtashi kerak",
+      "Faqat kunduzi ustunlikka ega"
+    ],
+    "togri": 0,
+    "izoh": "2.1 belgisi o'rnatilgan yo'l — bosh yo'l, undan harakatlanuvchi kesishuvchi ikkinchi darajali yo'llardagi transportga nisbatan ustunlikka ega.",
+    "mavzu": "chorrahalar",
+    "qiyinlik": 2
+  },
+  {
+    "id": "q_031",
+    "savol": "Chorrahada chapga burilmoqchi bo'lgan haydovchi kimlarga yo'l berishi shart?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "Hech kimga, chapga burilish har doim ustuvor",
+      "Qarama-qarshi yo'nalishdan to'g'ri yoki o'ngga harakatlanayotgan transport vositalariga",
+      "Faqat piyodalarga",
+      "Faqat orqadan kelayotgan transportga"
+    ],
+    "togri": 1,
+    "izoh": "Chapga burilayotgan haydovchi qarama-qarshi tomondan to'g'ri yoki o'ngga harakatlanayotgan transport vositalariga yo'l berishi shart.",
+    "mavzu": "chorrahalar",
+    "qiyinlik": 2
+  },
+  {
+    "id": "q_032",
+    "savol": "Tramvay yo'nalishi chorrahani kesib o'tsa, tramvay bilan avtomobil o'rtasida odatda kim ustunlikka ega?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "Har doim avtomobil ustunlikka ega",
+      "Teng ahamiyatli kesishmada, boshqacha ko'rsatilmagan bo'lsa, tramvay ustunlikka ega",
+      "Tramvay hech qachon ustunlikka ega emas",
+      "Kim tezroq bo'lsa o'sha o'tadi"
+    ],
+    "togri": 1,
+    "izoh": "Teng ahamiyatli kesishmalarda, agar boshqacha ko'rsatilmagan bo'lsa, relsli transport (tramvay) yo'nalishidan qat'i nazar odatda ustunlikka ega bo'ladi.",
+    "mavzu": "chorrahalar",
+    "qiyinlik": 3
+  },
+  {
+    "id": "q_033",
+    "savol": "Ko'p qatorli chorrahada haydovchi burilishdan oldin nima qilishi shart?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "Burilish yo'nalishiga mos qatorni oldindan egallash va signal berish",
+      "Har qanday qatordan burilish mumkin",
+      "Faqat chap qatordan burilish mumkin, yo'nalishidan qat'i nazar",
+      "Qator almashtirishga hojat yo'q"
+    ],
+    "togri": 0,
+    "izoh": "Haydovchi burilishdan oldin mos qatorni oldindan egallashi va burilish signalini yoqishi kerak.",
+    "mavzu": "chorrahalar",
+    "qiyinlik": 2
+  },
+  {
+    "id": "q_034",
+    "savol": "Sxemada svetofor qizil chiroq yonib turibdi. A mashinasi nima qilishi kerak?",
+    "belgi_id": null,
+    "sxema": {
+      "yol_turi": "chorraha_4",
+      "izoh": "Svetoforda qizil chiroq yonib turibdi",
+      "svetofor": "qizil",
+      "belgilar": [],
+      "mashinalar": [{ "harf": "A", "rang": "#15529E", "tomon": "janub", "manevr": "togri", "meniki": true }],
+      "piyodalar": [],
+      "yol_boyi_chizigi": "uzuq"
+    },
+    "variantlar": [
+      "To'xtash chizig'ida to'liq to'xtashi kerak",
+      "Sekinlashib, yo'l bo'sh bo'lsa o'tib ketishi mumkin",
+      "Signal berib o'tishi mumkin",
+      "Faqat o'ngga burilib o'tishi mumkin"
+    ],
+    "togri": 0,
+    "izoh": "Qizil chiroqda harakatlanish taqiqlangan — haydovchi to'xtash chizig'i oldida to'liq to'xtashi shart.",
+    "mavzu": "chorrahalar",
+    "qiyinlik": 1
+  },
+  {
+    "id": "q_035",
+    "savol": "Bir xil ustunlikdagi (teng) yo'llar kesishgan joyda trolleybus va avtomobil o'rtasida kim ustunlikka ega?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "Trolleybus (jamoat transporti sifatida) doim ustunlikka ega",
+      "Bu holatda oddiy \"to'g'ridan-o'ng\" qoidasi qo'llaniladi, chunki trolleybus relssiz",
+      "Avtomobil doim ustunlikka ega",
+      "Ustunlik mavjud emas, ikkalasi ham to'xtashi kerak"
+    ],
+    "togri": 1,
+    "izoh": "Trolleybus va avtobus relssiz transport hisoblanadi, shu sababli teng ahamiyatli kesishmada oddiy \"o'ngdan kelayotganga yo'l berish\" qoidasi qo'llaniladi.",
+    "mavzu": "chorrahalar",
+    "qiyinlik": 3
+  },
+
+  {
+    "id": "q_036",
+    "savol": "Sxemada A mashinasi B ni quvib o'tmoqchi, lekin oldinda temir yo'l kesishmasi belgisi bor. A quvib o'tishi mumkinmi?",
+    "belgi_id": null,
+    "sxema": {
+      "yol_turi": "togri_yol",
+      "izoh": "To'g'ri yo'l, uzuq chiziq, oldinda temir yo'l kesishmasi",
+      "svetofor": null,
+      "belgilar": [{ "belgi_id": "1.1", "tomon": "shimol" }],
+      "mashinalar": [
+        { "harf": "A", "rang": "#15529E", "tomon": "janub", "manevr": "chapga", "meniki": true },
+        { "harf": "B", "rang": "#C8362B", "tomon": "janub", "manevr": "togri", "meniki": false }
+      ],
+      "piyodalar": [],
+      "yol_boyi_chizigi": "uzuq"
+    },
+    "variantlar": [
+      "Ha, uzuq chiziq bo'yicha istalgan joyda quvib o'tish mumkin",
+      "Yo'q, temir yo'l kesishmasidan oldin (va unda) quvib o'tish taqiqlanadi",
+      "Ha, agar signal bersa",
+      "Faqat kunduzi mumkin"
+    ],
+    "togri": 1,
+    "izoh": "Temir yo'l kesishmalaridan oldin va ularning o'zida quvib o'tish taqiqlanadi, chiziq turidan qat'i nazar.",
+    "mavzu": "quvib_otish",
+    "qiyinlik": 2
+  },
+  {
+    "id": "q_037",
+    "savol": "Piyodalar o'tish joyida quvib o'tish mumkinmi?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": ["Ha, agar piyoda ko'rinmasa", "Yo'q, piyodalar o'tish joyida va unga yaqin joyda quvib o'tish taqiqlanadi", "Ha, faqat kechqurun", "Faqat velosipedchilarni quvib o'tish mumkin"],
+    "togri": 1,
+    "izoh": "Piyodalar o'tish joyida va undan oldingi qismda quvib o'tish taqiqlanadi — bu piyodalar xavfsizligi uchun muhim qoida.",
+    "mavzu": "quvib_otish",
+    "qiyinlik": 1
+  },
+  {
+    "id": "q_038",
+    "savol": "Kesishmalarda (svetoforsiz, teng ahamiyatli bo'lmagan) quvib o'tish odatda qanday cheklanadi?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "Har qanday kesishmada erkin quvib o'tish mumkin",
+      "Bosh yo'lda bo'lmasa, kesishmada va unga yaqin joyda quvib o'tish taqiqlanadi",
+      "Faqat T-kesishmalarda taqiqlanadi",
+      "Faqat kechqurun taqiqlanadi"
+    ],
+    "togri": 1,
+    "izoh": "Agar haydovchi bosh yo'lda harakatlanmayotgan bo'lsa, kesishmalarda va ularga yaqin joyda quvib o'tish taqiqlanadi.",
+    "mavzu": "quvib_otish",
+    "qiyinlik": 3
+  },
+  {
+    "id": "q_039",
+    "savol": "Oldinda ketayotgan transport vositasi chap burilish yoki U-burilish signalini yoqqan bo'lsa, uni quvib o'tish mumkinmi?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "Ha, chap tomondan tezda quvib o'tish mumkin",
+      "Yo'q, bunday holatda quvib o'tish taqiqlanadi — u burilishni boshlashi mumkin",
+      "Faqat o'ng tomondan quvib o'tish mumkin",
+      "Signal ahamiyatsiz, baribir quvib o'tsa bo'ladi"
+    ],
+    "togri": 1,
+    "izoh": "Oldingi transport chapga burilish yoki orqaga burilish signalini yoqqan bo'lsa, uni quvib o'tish xavfli va taqiqlanadi, chunki u istalgan payt burilishni boshlashi mumkin.",
+    "mavzu": "quvib_otish",
+    "qiyinlik": 2
+  },
+  {
+    "id": "q_040",
+    "savol": "Ko'rinuvchanlik yetarli bo'lmagan (tuman, egri yo'l, tepalik) joylarda quvib o'tish mumkinmi?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": ["Ha, ehtiyotkorlik bilan mumkin", "Yo'q, qarama-qarshi yo'nalish yaxshi ko'rinmasa quvib o'tish taqiqlanadi", "Faqat kunduzi mumkin", "Faqat mototsikllar uchun mumkin"],
+    "togri": 1,
+    "izoh": "Qarama-qarshi tomondan keluvchi transportni oldindan ko'ra olmaydigan joylarda (egri yo'l, tepalik, tuman) quvib o'tish xavfli va taqiqlangan.",
+    "mavzu": "quvib_otish",
+    "qiyinlik": 2
+  },
+  {
+    "id": "q_041",
+    "savol": "Quvib o'tishni boshlashdan oldin haydovchi nimalarga ishonch hosil qilishi kerak?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "Faqat old ko'zguga qarash kifoya",
+      "Qarama-qarshi tomon bo'sh ekaniga, orqadan kimdir quvib o'tmayotganiga va vaqt/masofa yetarli ekaniga",
+      "Faqat signal berish kifoya, boshqa narsaga qarash shart emas",
+      "Faqat oldingi mashina tezligiga qarash kerak"
+    ],
+    "togri": 1,
+    "izoh": "Xavfsiz quvib o'tish uchun qarama-qarshi tomon bo'sh ekani, orqadan boshqa mashina quvib o'tmayotgani va manyovrni xavfsiz yakunlash uchun masofa yetarli ekaniga ishonch hosil qilish zarur.",
+    "mavzu": "quvib_otish",
+    "qiyinlik": 2
+  },
+  {
+    "id": "q_042",
+    "savol": "Bir tomonlama harakat yo'lida quvib o'tish qanday amalga oshiriladi?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "Faqat chap tomondan, boshqa holatlar taqiqlangan",
+      "Istalgan bo'sh qatordan (chap yoki o'ngdan) o'tish mumkin, chunki qarama-qarshi harakat yo'q",
+      "Bir tomonlama yo'lda quvib o'tish umuman taqiqlanadi",
+      "Faqat orqa chiroqni yoqib o'tish kerak"
+    ],
+    "togri": 1,
+    "izoh": "Bir tomonlama harakat yo'lida qarama-qarshi transport oqimi bo'lmagani uchun bo'sh qatordan (chap yoki o'ng) o'tish mumkin.",
+    "mavzu": "quvib_otish",
+    "qiyinlik": 2
+  },
+
+  {
+    "id": "q_043",
+    "savol": "Ushbu belgi bilan cheklangan tezlikdan yuqori yurish mumkinmi?",
+    "belgi_id": "3.24",
+    "sxema": null,
+    "variantlar": ["Ha, 10 km/soatgacha oshirish mumkin", "Yo'q, ko'rsatilgan qiymatdan oshirish taqiqlanadi", "Ha, bo'sh yo'lda mumkin", "Faqat kechasi oshirish mumkin"],
+    "togri": 1,
+    "izoh": "Tezlik cheklovi belgisi ko'rsatgan qiymatdan yuqori tezlikda harakatlanish taqiqlanadi.",
+    "mavzu": "tezlik",
+    "qiyinlik": 1
+  },
+  {
+    "id": "q_044",
+    "savol": "Aholi turar joylarida (shahar, qishloq ichida), agar boshqacha belgi bo'lmasa, odatda qanday tezlik chegarasi qo'llaniladi?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": ["30 km/soat", "60 km/soat atrofida", "110 km/soat", "Cheklov yo'q"],
+    "togri": 1,
+    "izoh": "Aholi turar joylarida odatda 60 km/soat atrofida umumiy tezlik chegarasi qo'llaniladi, aniq qiymat mahalliy belgilarga bog'liq bo'lishi mumkin.",
+    "mavzu": "tezlik",
+    "qiyinlik": 2
+  },
+  {
+    "id": "q_045",
+    "savol": "Hovli, ko'cha ichi yoki turar-joy zonalarida tezlik odatda qanday cheklanadi?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "Piyodalar yurish tezligidan oshmasligi kerak (juda past, ~20 km/soat atrofida)",
+      "Bu yerlarda tezlik cheklanmaydi",
+      "90 km/soatgacha ruxsat etiladi",
+      "Faqat mototsikllar uchun cheklanadi"
+    ],
+    "togri": 0,
+    "izoh": "Hovli va turar-joy zonalarida piyodalar ko'p bo'lgani uchun tezlik juda past (yurish tezligiga yaqin) bo'lishi shart.",
+    "mavzu": "tezlik",
+    "qiyinlik": 2
+  },
+  {
+    "id": "q_046",
+    "savol": "Tezlikni tanlashda haydovchi nimalarni hisobga olishi shart?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "Faqat belgilangan maksimal tezlikni",
+      "Belgilangan chegara, yo'l holati, ko'rinuvchanlik, transport yuklamasi va ob-havo sharoitini",
+      "Faqat boshqa haydovchilar tezligini",
+      "Faqat yoqilg'i tejashni"
+    ],
+    "togri": 1,
+    "izoh": "Haydovchi nafaqat belgilangan maksimal tezlikni, balki yo'l holati, ko'rinuvchanlik va ob-havoni ham hisobga olib xavfsiz tezlik tanlashi shart.",
+    "mavzu": "tezlik",
+    "qiyinlik": 2
+  },
+  {
+    "id": "q_047",
+    "savol": "Yangi haydovchi (tajribasi 2 yildan kam) uchun ko'pincha qanday qo'shimcha cheklov qo'llaniladi?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "Hech qanday farq yo'q",
+      "Ba'zi yo'l turlarida (masalan avtomagistralda) pastroq tezlik chegarasi va \"U\" belgisini qo'yish talab qilinishi mumkin",
+      "Umuman transport boshqarishi mumkin emas",
+      "Faqat kunduzi haydashi mumkin"
+    ],
+    "togri": 1,
+    "izoh": "Ko'plab davlatlarda (jumladan Oʻzbekistonda) tajribasiz haydovchilar uchun pastroq tezlik chegaralari va \"Yangi haydovchi\" belgisini o'rnatish talab qilinishi mumkin.",
+    "mavzu": "tezlik",
+    "qiyinlik": 3
+  },
+  {
+    "id": "q_048",
+    "savol": "Maktab yoki bolalar muassasasi yaqinida tezlik rejimiga nima uchun alohida e'tibor berish kerak?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "Chunki u yerda yo'l qoplamasi yomon bo'ladi",
+      "Chunki bolalar to'satdan yo'lga chiqishi ehtimoli yuqori, reaksiya vaqti kamayadi",
+      "Bu shunchaki formalik talab",
+      "Faqat imtihonda so'raladi, amalda ahamiyati yo'q"
+    ],
+    "togri": 1,
+    "izoh": "Bolalar to'satdan va kutilmagan tarzda yo'lga chiqishi mumkin, shu sababli bunday joylarda past tezlik reaksiya uchun vaqt beradi.",
+    "mavzu": "tezlik",
+    "qiyinlik": 1
+  },
+  {
+    "id": "q_049",
+    "savol": "Yomg'ir yoki muz bosgan yo'lda tezlikni qanday o'zgartirish to'g'ri?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "Belgilangan maksimal tezlikni saqlab qolish kerak",
+      "Yopishqoqlik pasayishi sababli tezlikni belgilangan chegaradan ham pastroq tanlash kerak",
+      "Tezlikni oshirish kerak, tezroq o'tib ketish uchun",
+      "Bunda tezlikning ahamiyati yo'q"
+    ],
+    "togri": 1,
+    "izoh": "Yopishqoqlik pasaygan sharoitda (yomg'ir, muz) tormozlash masofasi oshadi, shuning uchun tezlik belgilangan chegaradan ham pastroq tanlanishi kerak.",
+    "mavzu": "tezlik",
+    "qiyinlik": 1
+  },
+
+  {
+    "id": "q_050",
+    "savol": "Piyodalar o'tish joyidan qancha masofa ichida to'xtash taqiqlanadi?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "To'xtash cheklanmaydi",
+      "Piyodalar o'tish joyi chegarasi va undan darhol oldingi/keyingi qismda to'xtash taqiqlanadi",
+      "Faqat o'tish joyining o'zida taqiqlanadi, yaqinida mumkin",
+      "Faqat kechqurun taqiqlanadi"
+    ],
+    "togri": 1,
+    "izoh": "Piyodalar o'tish joyida va unga yaqin (odatda belgilangan masofada) to'xtash piyodalar ko'rinishini to'sib qo'yishi mumkin, shu sababli taqiqlanadi.",
+    "mavzu": "toxtash",
+    "qiyinlik": 2
+  },
+  {
+    "id": "q_051",
+    "savol": "Avtobus bekati yaqinida to'xtash/to'xtab turish qanday cheklanadi?",
+    "belgi_id": "5.16",
+    "sxema": null,
+    "variantlar": [
+      "Cheklanmaydi",
+      "Bekat belgisi atrofidagi belgilangan masofada boshqa transportning to'xtashi/to'xtab turishi taqiqlanadi",
+      "Faqat tungi vaqtda taqiqlanadi",
+      "Faqat yuk mashinalari uchun taqiqlanadi"
+    ],
+    "togri": 1,
+    "izoh": "Jamoat transporti bekatlari yaqinida boshqa transport vositalarining to'xtashi/to'xtab turishi jamoat transportiga xalaqit bermaslik uchun taqiqlanadi.",
+    "mavzu": "toxtash",
+    "qiyinlik": 2
+  },
+  {
+    "id": "q_052",
+    "savol": "Transport vositasi to'satdan buzilib, taqiqlangan joyda to'xtab qolsa, haydovchi nima qilishi shart?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "Hech narsa qilmasdan yordam kutish",
+      "Avariya signalizatsiyasini yoqish va ogohlantiruvchi belgi (uchburchak) qo'yish, imkon qadar tezroq joyni bo'shatish",
+      "Darhol mashinani tashlab ketish",
+      "Faqat signal berib turish"
+    ],
+    "togri": 1,
+    "izoh": "Majburiy to'xtashda avariya signalizatsiyasi yoqiladi va orqaga ogohlantiruvchi belgi qo'yiladi, imkon bo'lsa transport xavfsiz joyga o'tkaziladi.",
+    "mavzu": "toxtash",
+    "qiyinlik": 2
+  },
+  {
+    "id": "q_053",
+    "savol": "Ushbu belgi qanday farq bilan \"to'xtash taqiqlangan\" belgisidan ajralib turadi?",
+    "belgi_id": "3.28",
+    "sxema": null,
+    "variantlar": [
+      "Bu belgi qisqa muddatli to'xtashga (yo'lovchi tushirish/olish) ruxsat beradi, uzoq to'xtab turish taqiqlanadi",
+      "Bu belgi umuman farq qilmaydi",
+      "Bu belgi faqat yuk mashinalariga tegishli",
+      "Bu belgi to'xtashni butunlay taqiqlaydi"
+    ],
+    "togri": 0,
+    "izoh": "\"To'xtab turish taqiqlangan\" (3.28) qisqa muddatli to'xtashga (masalan yo'lovchi tushirish) ruxsat beradi, lekin uzoq muddat to'xtab turishni taqiqlaydi.",
+    "mavzu": "toxtash",
+    "qiyinlik": 2
+  },
+  {
+    "id": "q_054",
+    "savol": "Temir yo'l kesishmasida to'xtash mumkinmi?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": ["Ha, agar poyezd ko'rinmasa", "Yo'q, temir yo'l kesishmasida to'xtash qat'iyan taqiqlanadi", "Faqat qisqa muddatga mumkin", "Faqat kunduzi taqiqlanadi"],
+    "togri": 1,
+    "izoh": "Temir yo'l kesishmasida to'xtash o'ta xavfli va qat'iyan taqiqlanadi.",
+    "mavzu": "toxtash",
+    "qiyinlik": 1
+  },
+  {
+    "id": "q_055",
+    "savol": "Piyodalar yo'lkasi (trotuar)ga transport vositasini qo'yish mumkinmi?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": ["Ha, har doim mumkin", "Odatda taqiqlanadi, faqat maxsus belgi bilan ruxsat etilgan joylarda mumkin", "Faqat mototsikllar uchun mumkin", "Faqat tunda mumkin"],
+    "togri": 1,
+    "izoh": "Piyodalar yo'lkasiga transport qo'yish odatda taqiqlanadi va faqat maxsus ruxsat etuvchi belgi bo'lgan joylarda mumkin, chunki bu piyodalarga xalaqit beradi.",
+    "mavzu": "toxtash",
+    "qiyinlik": 1
+  },
+  {
+    "id": "q_056",
+    "savol": "Tunnel ichida to'xtash mumkinmi?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": ["Ha, agar boshqa transportga xalaqit bermasa", "Yo'q, tunnel ichida to'xtash taqiqlanadi", "Faqat kunduzi mumkin", "Faqat yengil avtomobillar uchun mumkin"],
+    "togri": 1,
+    "izoh": "Tunnel ichida to'xtash ko'rinuvchanlik pastligi va xavf yuqoriligi sababli taqiqlanadi.",
+    "mavzu": "toxtash",
+    "qiyinlik": 1
+  },
+
+  {
+    "id": "q_057",
+    "savol": "Belgilangan piyodalar o'tish joyida piyoda va avtomobil o'rtasida kim ustunlikka ega?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": ["Avtomobil har doim ustunlikka ega", "Piyoda ustunlikka ega, haydovchi yo'l berishi shart", "Kim tezroq bo'lsa o'sha o'tadi", "Faqat kattalar ustunlikka ega"],
+    "togri": 1,
+    "izoh": "Belgilangan piyodalar o'tish joyida piyoda ustunlikka ega, haydovchi to'xtab yo'l berishi shart.",
+    "mavzu": "piyodalar",
+    "qiyinlik": 1
+  },
+  {
+    "id": "q_058",
+    "savol": "Sxemada piyoda o'tish joyidan o'tayotganda A mashinasi qanday harakat qilishi kerak?",
+    "belgi_id": null,
+    "sxema": {
+      "yol_turi": "piyoda_otish",
+      "izoh": "Piyodalar o'tish joyi, piyoda o'tmoqda",
+      "svetofor": null,
+      "belgilar": [{ "belgi_id": "5.19.1", "tomon": "sharq" }],
+      "mashinalar": [{ "harf": "A", "rang": "#15529E", "tomon": "janub", "manevr": "togri", "meniki": true }],
+      "piyodalar": [{ "tomon": "garb", "harakat": "otmoqda" }],
+      "yol_boyi_chizigi": "uzuq"
+    },
+    "variantlar": ["Tezlikni oshirib, piyoda o'tishidan oldin o'tib ketish", "To'xtab yoki sekinlashib, piyodaga yo'l berish", "Signal berib piyodani ogohlantirish va davom etish", "Piyodani e'tiborsiz qoldirish"],
+    "togri": 1,
+    "izoh": "Piyoda o'tish joyidan o'tayotganda haydovchi to'xtashi yoki sekinlashib piyodaga xavfsiz o'tish imkonini berishi shart.",
+    "mavzu": "piyodalar",
+    "qiyinlik": 1
+  },
+  {
+    "id": "q_059",
+    "savol": "Belgilanmagan (chiziq tortilmagan) kesishmada piyoda yo'lni kesib o'tayotganda haydovchi qanday harakat qilishi kerak?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "Piyodaga umuman e'tibor bermaslik mumkin, chunki belgilangan o'tish joyi yo'q",
+      "Baribir ehtiyotkorlik bilan harakatlanib, piyoda xavfsizligini ta'minlashi kerak",
+      "Signal berib tezroq o'tib ketish kerak",
+      "Faqat piyoda qo'l ko'tarsa to'xtash kerak"
+    ],
+    "togri": 1,
+    "izoh": "Belgilangan o'tish joyi bo'lmasa ham, haydovchi yo'lni kesib o'tayotgan piyoda xavfsizligini ta'minlashi va ehtiyotkorlik bilan harakatlanishi shart.",
+    "mavzu": "piyodalar",
+    "qiyinlik": 2
+  },
+  {
+    "id": "q_060",
+    "savol": "Oq hassa bilan yuruvchi (ko'zi ojiz) piyodani ko'rgan haydovchi nima qilishi kerak?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "E'tibor bermaslik, chunki piyoda o'zi ehtiyot bo'lishi kerak",
+      "Alohida ehtiyotkorlik bilan to'xtab, unga xavfsiz o'tish imkonini berish",
+      "Signal berib tezlashish",
+      "Faqat kunduzi e'tibor berish kerak"
+    ],
+    "togri": 1,
+    "izoh": "Oq hassa ko'rish qobiliyati cheklanganligining belgisi — haydovchi bunday piyodaga alohida ehtiyotkorlik bilan yo'l berishi shart.",
+    "mavzu": "piyodalar",
+    "qiyinlik": 1
+  },
+  {
+    "id": "q_061",
+    "savol": "Trotuar (piyodalar yo'lkasi) bo'lmagan yo'lda piyoda qaysi tomondan yurishi tavsiya etiladi?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "Harakat yo'nalishi bo'yicha, transport bilan bir tomonda",
+      "Qarama-qarshi transport oqimiga qarab (transportni ko'rib) yurish, xavfsizroq",
+      "Yo'lning aynan o'rtasida",
+      "Farqi yo'q"
+    ],
+    "togri": 1,
+    "izoh": "Trotuar bo'lmaganda piyoda qarama-qarshi tomondan keluvchi transportni ko'rib boradigan tomonda yurishi tavsiya etiladi — bu xavfsizroq.",
+    "mavzu": "piyodalar",
+    "qiyinlik": 2
+  },
+  {
+    "id": "q_062",
+    "savol": "Maktab avtobusi to'xtab, bolalarni tushirayotganda ortidan kelayotgan haydovchi nima qilishi kerak?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "Oddiy tezlikda davom etish",
+      "Tezlikni keskin pasaytirish va bolalar yo'lga chiqishi mumkinligini hisobga olib ehtiyotkorlik bilan harakatlanish",
+      "Signal berib tezroq o'tib ketish",
+      "Chap qatorga o'tib, tezlikni oshirish"
+    ],
+    "togri": 1,
+    "izoh": "Maktab avtobusi atrofida bolalar to'satdan yo'lga chiqishi ehtimoli yuqori bo'lgani uchun haydovchi tezlikni keskin pasaytirishi kerak.",
+    "mavzu": "piyodalar",
+    "qiyinlik": 1
+  },
+  {
+    "id": "q_063",
+    "savol": "Piyodalar guruhi (tashkil etilgan kolonna) yo'lda harakatlanayotganda haydovchi nimaga rioya qilishi kerak?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "Kolonnani e'tiborsiz qoldirish mumkin",
+      "Tezlikni pasaytirib, kerak bo'lsa to'xtab, kolonnaga xalaqit bermaslik",
+      "Signal berib kolonnani tarqatish",
+      "Kolonna orasidan o'tib ketish"
+    ],
+    "togri": 1,
+    "izoh": "Tashkil etilgan piyodalar kolonnasi harakatlanayotganda haydovchi ehtiyotkorlik bilan, kerak bo'lsa to'xtab, ularga xalaqit bermasligi kerak.",
+    "mavzu": "piyodalar",
+    "qiyinlik": 2
+  },
+
+  {
+    "id": "q_064",
+    "savol": "Maxsus yorug'lik va tovush signali (sirena) yoqilgan operativ xizmat mashinasi (tez yordam, o't o'chirish) yaqinlashganda haydovchi nima qilishi kerak?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "E'tibor bermasdan yo'lida davom etish",
+      "Unga yo'l berish uchun imkon qadar tezda yo'lni bo'shatish",
+      "Uni quvib o'tishga harakat qilish",
+      "To'xtab, dvigatelni o'chirish shart"
+    ],
+    "togri": 1,
+    "izoh": "Maxsus signal yoqilgan operativ xizmat transportiga barcha haydovchilar yo'l berishi va imkon qadar tezda harakatlanish uchun joy bo'shatishi shart.",
+    "mavzu": "maxsus",
+    "qiyinlik": 1
+  },
+  {
+    "id": "q_065",
+    "savol": "Motam (dafn) marosimi kolonnasiga boshqa transport vositalari qo'shilishi yoki uni kesib o'tishi mumkinmi?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": ["Ha, erkin", "Yo'q, motam kolonnasini bo'lib bo'lmaydi", "Faqat signal berib mumkin", "Faqat kunduzi mumkin"],
+    "togri": 1,
+    "izoh": "Motam marosimi kolonnasi bir butun sifatida harakatlanadi, uni boshqa transport vositalari bilan kesib o'tish yoki bo'lib qo'yish taqiqlanadi.",
+    "mavzu": "maxsus",
+    "qiyinlik": 2
+  },
+  {
+    "id": "q_066",
+    "savol": "Qattiq tuman yoki kuchli yomg'ir sharoitida haydovchi qanday qo'shimcha choralar ko'rishi kerak?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "Tezlikni keskin pasaytirish, masofani oshirish va tuman uchun mo'ljallangan chiroqlar/yaqin nur ishlatish",
+      "Uzoq nurni doim yoqib qo'yish",
+      "Avariya signalizatsiyasini butun yo'l davomida yoqib harakatlanish",
+      "Hech narsa o'zgartirmaslik"
+    ],
+    "togri": 0,
+    "izoh": "Yomon ko'rinuvchanlik sharoitida tezlikni pasaytirish, masofani oshirish va mos yorug'lik asboblaridan foydalanish zarur.",
+    "mavzu": "maxsus",
+    "qiyinlik": 2
+  },
+  {
+    "id": "q_067",
+    "savol": "Kichik yoshdagi bolani (yosh chegarasi qonunda belgilangan) avtomobilda tashishda nima talab qilinadi?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "Hech qanday maxsus talab yo'q",
+      "Bolalar uchun mos avtokreslo yoki xavfsizlik moslamasidan foydalanish talab etiladi",
+      "Faqat orqa o'rindiqda o'tirsa kifoya, boshqa talab yo'q",
+      "Faqat uzoq masofada talab qilinadi"
+    ],
+    "togri": 1,
+    "izoh": "Kichik yoshdagi bolalarni tashishda ularning yoshi/bo'yiga mos avtokreslo yoki maxsus xavfsizlik moslamasidan foydalanish talab etiladi.",
+    "mavzu": "maxsus",
+    "qiyinlik": 2
+  },
+  {
+    "id": "q_068",
+    "savol": "Muzlagan yoki qorli yo'lda tormozlash masofasi qanday o'zgaradi?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": ["O'zgarmaydi", "Sezilarli darajada ortadi, shuning uchun tezlik va masofa mos ravishda o'zgartirilishi kerak", "Qisqaradi", "Faqat yangi mashinalar uchun ortadi"],
+    "togri": 1,
+    "izoh": "Muz/qor sharoitida g'ildirak yopishqoqligi pasayadi va tormozlash masofasi sezilarli oshadi — tezlik pasaytirilishi va masofa oshirilishi shart.",
+    "mavzu": "maxsus",
+    "qiyinlik": 1
+  },
+  {
+    "id": "q_069",
+    "savol": "Chorvachilik hayvonlari (mol, qo'y podasi) yo'lni kesib o'tayotgan hududda haydovchi nima qilishi kerak?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "Signal berib tezlikni oshirish",
+      "Tezlikni pasaytirib, kerak bo'lsa to'xtab, hayvonlar va boquvchiga xalaqit bermaslik",
+      "Hayvonlarni haydab yubormoqchi bo'lish",
+      "E'tibor bermaslik"
+    ],
+    "togri": 1,
+    "izoh": "Hayvonlar yo'lni kesib o'tayotganda haydovchi tezlikni pasaytirib, zarur bo'lsa to'xtab, ularga va boquvchiga xalaqit bermasligi kerak.",
+    "mavzu": "maxsus",
+    "qiyinlik": 1
+  },
+  {
+    "id": "q_070",
+    "savol": "Transport vositasi tunnel yoki ko'prikda avariyaga uchrasa va yo'lni to'liq to'sib qo'ysa, haydovchi birinchi navbatda nima qilishi kerak?",
+    "belgi_id": null,
+    "sxema": null,
+    "variantlar": [
+      "Avariya signalizatsiyasini yoqish, boshqa haydovchilarni ogohlantirish va imkon qadar tezda yordam chaqirish",
+      "Mashinani tashlab, darhol joyni tark etish",
+      "Boshqa haydovchilarga signal berib haqorat qilish",
+      "Hech narsa qilmasdan mashinada kutish"
+    ],
+    "togri": 0,
+    "izoh": "Xavfli holatda avariya signalizatsiyasini yoqish, ortidan kelayotgan transportni ogohlantirish (masalan ogohlantiruvchi uchburchak) va yordam chaqirish muhim.",
+    "mavzu": "maxsus",
+    "qiyinlik": 2
+  }
+]

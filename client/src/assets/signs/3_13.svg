@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+    <circle cx="50" cy="50" r="45" fill="#FFFFFF" stroke="#C8362B" stroke-width="9"/>
+    <path d="M24 36 h52 M30 36 v28 h40 v-28" fill="none" stroke="#1B1E24" stroke-width="5"/><text x="50" y="63" text-anchor="middle" font-family="Overpass, Arial, sans-serif" font-weight="800" font-size="15" fill="#1B1E24">3,5m</text>
+  </svg>
