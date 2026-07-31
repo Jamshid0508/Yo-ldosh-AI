@@ -1,6 +1,13 @@
 import type { BelgiCheckResult, VaziyatResponse } from "../types";
 import { getClientId } from "./storage";
 
+/**
+ * Bir vercel loyihasida (client+server bitta domenda) bo'sh qoldiring — "/api" nisbiy yo'l ishlaydi.
+ * Backend alohida domenda joylashgan bo'lsa (masalan alohida Vercel loyihasi), shu yerga uning
+ * to'liq manzilini yozing: VITE_API_BASE_URL=https://yoldosh-ai-api.vercel.app
+ */
+const API_BASE = (import.meta.env.VITE_API_BASE_URL as string | undefined)?.replace(/\/$/, "") ?? "";
+
 export class ApiError extends Error {
   constructor(message: string, public status?: number) {
     super(message);
@@ -8,7 +15,7 @@ export class ApiError extends Error {
 }
 
 async function callAi<T>(type: string, payload: unknown): Promise<T> {
-  const res = await fetch("/api/ai", {
+  const res = await fetch(`${API_BASE}/api/ai`, {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
@@ -83,7 +90,7 @@ export interface SyncSnapshot {
 /** MongoDB ulanmagan bo'lsa ham xato tashlamaydi — shunchaki synced:false qaytaradi. */
 export async function syncPush(progress: unknown, mistakes: unknown): Promise<boolean> {
   try {
-    const res = await fetch(`/api/sync/${getClientId()}`, {
+    const res = await fetch(`${API_BASE}/api/sync/${getClientId()}`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ progress, mistakes }),
@@ -98,7 +105,7 @@ export async function syncPush(progress: unknown, mistakes: unknown): Promise<bo
 
 export async function syncPull(): Promise<SyncSnapshot | null> {
   try {
-    const res = await fetch(`/api/sync/${getClientId()}`);
+    const res = await fetch(`${API_BASE}/api/sync/${getClientId()}`);
     if (!res.ok) return null;
     const body = await res.json();
     return body?.data ?? null;

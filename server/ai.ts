@@ -14,23 +14,22 @@ export { AiUnavailableError } from "./providers/types.js";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
-function loadPrompt(name: string): string {
-  return readFileSync(join(__dirname, "prompts", `${name}.txt`), "utf-8");
-}
-
-function loadPromptSafe(name: string): string {
+// Har bir fayl alohida, statik (shablonlanmagan) yo'l bilan o'qiladi — bu Vercel
+// serverless bundlerining fayl kuzatuvchisi (nft) prompt fayllarini ishonchli
+// aniqlab, deploy paketiga qo'shishi uchun muhim (dinamik/shablonli yo'llar ba'zan o'tkazib yuboriladi).
+function safeRead(path: string): string {
   try {
-    return loadPrompt(name);
+    return readFileSync(path, "utf-8");
   } catch {
     return "";
   }
 }
 
 const prompts = {
-  chat: loadPromptSafe("chat"),
-  test: loadPromptSafe("test"),
-  vaziyat: loadPromptSafe("vaziyat"),
-  belgi: loadPromptSafe("belgi"),
+  chat: safeRead(join(__dirname, "prompts", "chat.txt")),
+  test: safeRead(join(__dirname, "prompts", "test.txt")),
+  vaziyat: safeRead(join(__dirname, "prompts", "vaziyat.txt")),
+  belgi: safeRead(join(__dirname, "prompts", "belgi.txt")),
 };
 
 type ChatHistoryItem = { role: "user" | "assistant"; content: string };
